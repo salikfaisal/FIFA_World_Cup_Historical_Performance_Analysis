@@ -49,7 +49,7 @@ for team in teams:
         start_win_a_wc_prob *= (1 - row_data['Win World Cup (Starting Elo)'])
         start_make_a_final_prob *= (1 - row_data['Make Final (Starting Elo)'])
         start_make_a_sf_prob *= (1 - row_data['Make Semifinals (Starting Elo)'])
-        final_win_a_wc_prob *= (1 - row_data['Win World Cup (Starting Elo)'])
+        final_win_a_wc_prob *= (1 - row_data['Win World Cup (Final Elo)'])
         final_make_a_final_prob *= (1 - row_data['Make Final (Final Elo)'])
         final_make_a_sf_prob *= (1 - row_data['Make Semifinals (Final Elo)'])
     start_win_a_wc.append(1 - start_win_a_wc_prob)
