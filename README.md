@@ -1,7 +1,7 @@
 # FIFA_World_Cup_Historical_Performance_Analysis
 This project simulated every World Cup 10,000 times using [Elo Ratings](http://www.eloratings.net/).
 
-You can read the key findings and analysis in my article on Medium.
+You can read the key findings and analysis in my article on [Medium](https://medium.com/@salikfaisal/analyzing-world-cup-history-with-elo-ratings-c83a9cf6c282).
 
 [Team Data For Each Tournament](https://github.com/salikfaisal/FIFA_World_Cup_Historical_Performance_Analysis/blob/main/Historical_World_Cup_Teams.csv)<br>
 [All Time Team Data](https://github.com/salikfaisal/FIFA_World_Cup_Historical_Performance_Analysis/blob/main/Overall_World_Cup_Team_Data.csv)
